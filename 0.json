@@ -5,7 +5,7 @@
     {
       "name": "IPV4",
       "type": 0,
-      "url": "https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt",
+      "url": "https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
